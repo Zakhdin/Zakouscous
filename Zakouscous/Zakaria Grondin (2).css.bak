@@ -1,0 +1,48 @@
+body
+{
+	background-image : url("photo-cuisine-3 (2).jpg");
+	background-size : cover;
+}
+	
+a:hover
+{
+	color : green;
+}
+
+a
+{
+  background-color : #E6C5BE;
+  font-size : 65px;
+}
+
+p
+{
+	font-size : 20px;
+	background-color : grey;
+	
+}
+h1
+{
+	height : 25%;
+	width : 25%;
+	background-color : #D27A67;
+	border-radius : 20px;
+	margin-bottom :100px;
+  
+	
+	
+
+}
+
+p
+{
+	border-radius : 20px;
+	width : 50%;
+	height : 30%;
+	  text-align : center;
+	margin-left : 25%;
+}
+
+.couscous
+{
+}

@@ -1,0 +1,57 @@
+body
+{
+	background-image : url("bgki3.jpg");
+	background-size : cover;
+}
+	
+a:hover
+{
+	color : green;
+}
+
+a
+{
+  background-color : #E6C5BE;
+  font-size : 20px;
+  border-radius:20px;
+  padding : 1%;
+
+}
+
+p
+{
+	font-size : 20px;
+	background-color : grey;
+	
+}
+h1
+{
+	height : 25%;
+	width : 25%;
+	background-color : #D27A67;
+	border-radius : 20px;
+	margin-bottom :100px;
+	text-align:center;
+  
+	
+	
+
+}
+
+p
+{
+	border-radius : 20px;
+	width : 50%;
+	height : 30%;
+	  text-align : center;
+	margin-left : 25%;
+}
+
+.couscous {
+	
+	margin-left: 19%;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 5%;
+	
+}
